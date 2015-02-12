@@ -1,5 +1,5 @@
 ## Put comments here that give an overall description of what your
-## functions do
+## functions do this
 <<<<<<< HEAD
 ## Write a short comment describing this function
 ## create a special matrix  
