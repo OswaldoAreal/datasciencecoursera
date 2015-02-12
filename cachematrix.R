@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 ## Write a short comment describing this function
-## create a special matrix 
+## create a special matrix  
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
   get <- function() x
