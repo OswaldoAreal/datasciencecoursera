@@ -1,5 +1,6 @@
 ## Put comments here that give an overall description of what your
 ## functions do
+<<<<<<< HEAD
 ## Write a short comment describing this function
 ## create a special matrix  
 makeCacheMatrix <- function(x = matrix()) {
@@ -51,3 +52,18 @@ inverse <- function(X, tol = sqrt(.Machine$double.eps))
     dimnames = dnx[2:1])
   return (dnx)
 }
+=======
+
+## Write a short comment describing this function
+
+makeCacheMatrix <- function(x = matrix()) {
+
+}
+
+
+## Write a short comment describing this function
+
+cacheSolve <- function(x, ...) {
+        ## Return a matrix that is the inverse of 'x'
+}
+>>>>>>> ea42e977b8e150ce5aff5bf04323e867e53885e5
